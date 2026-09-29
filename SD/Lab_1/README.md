@@ -51,13 +51,13 @@ Method: [UK Government stakeholder-mapping guide](https://analysisfunction.civil
 
 | Candidate | Classification | Reason |
 | --------- | -------------- | ------ |
-| Investor | **Direct human actor** | Records holdings and reads results. |
-| Market Data Provider | **External system** | The Dashboard directly asks it for prices and instrument details. |
-| Sign-in Provider | **External system** | The Dashboard directly asks it to confirm who is signing in. |
-| Product owner | Other stakeholder | Decides scope but is not in the Investor's journey. |
-| Regulators | Other stakeholder | Impose limits but do not interact with the Dashboard. |
-| Investor's financial advisor | Other stakeholder | Sharing with an advisor is a non-goal, so there is no direct interaction. |
-| Brokerage or bank | Other stakeholder | Not connected in the first version. |
+| Investor | Direct human actor | Records holdings and reads results. |
+| Market Data Provider | External system | The Dashboard directly asks it for prices and instrument details. |
+| Sign-in Provider | External system | The Dashboard directly asks it to confirm who is signing in. |
+| Product owner | Stakeholder | Decides scope but is not in the Investor's journey. |
+| Regulators | Stakeholder | Impose limits but do not interact with the Dashboard. |
+| Investor's financial advisor | Stakeholder | Sharing with an advisor is a non-goal, so there is no direct interaction. |
+| Brokerage or bank | Stakeholder | Not connected in the first version. |
 
 Only the Investor, Market Data Provider and Sign-in Provider appear in the System Context view.
 
