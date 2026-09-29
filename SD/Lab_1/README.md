@@ -7,12 +7,12 @@
 **Products examined (public pages only, no accounts):**
 
 - Market data product: [Apple Stocks](https://apps.apple.com/us/app/stocks/id1069512882), using its App Store description and the Apple Support pages [Check stocks on iPhone](https://support.apple.com/guide/iphone/check-stocks-iph1ac0b1bc/ios) and [Manage watchlists in Stocks on iPhone](https://support.apple.com/guide/iphone/manage-multiple-watchlists-iph4fff7afb5/ios).
-- Trading product: [Interactive Brokers Client Portal](https://www.interactivebrokers.com/en/trading/client-portal.php) and its [navigation overview](https://www.interactivebrokers.com/campus/trading-lessons/navigating-and-trading-using-ibkrs-client-portal/).
+- Trading product: [Interactive Brokers ](https://www.interactivebrokers.com/en/trading/client-portal.php) and its [navigation overview](https://www.interactivebrokers.com/campus/trading-lessons/navigating-and-trading-using-ibkrs-client-portal/).
 
 | Product | Likely User and goal | Reusable pattern |
 | ------- | -------------------- | ---------------- |
 | Apple Stocks | A person who wants a quick look at prices, daily change and news for stocks, funds, indexes and currencies they follow, without trading. Apple describes following daily performance through watchlists, quotes and charts. | (a) **Follow an instrument** by searching for it by ticker, company, fund or index and adding it to a list. (b) Show **price, price change and percentage change at a glance** for each followed instrument. (c) **Drill down** from one instrument to a chart and details for a chosen time range. |
-| Interactive Brokers Client Portal | A person who holds a brokerage account and wants to monitor and manage it. The home page shows rate of return, portfolio positions, recent transactions, available cash and news. The same portal also places orders, funds the account and produces statements and tax reports. | (a) A **positions overview** with a portfolio value and performance summary over a chosen time period. (b) **Drill-down** from one position to its detail. (c) **Transactions or history** kept so returns can be explained. |
+| Interactive Brokers | A person who holds a brokerage account and wants to monitor and manage it. The home page shows rate of return, portfolio positions, recent transactions, available cash and news. The same portal also places orders, funds the account and produces statements and tax reports. | (a) A **positions overview** with a portfolio value and performance summary over a chosen time period. (b) **Drill-down** from one position to its detail. (c) **Transactions or history** kept so returns can be explained. |
 
 **What the research changed or confirmed about scope:**
 
@@ -226,7 +226,7 @@ flowchart LR
 
 ## Checklist
 
-- [x] I researched at least two existing products (Apple Stocks, Interactive Brokers Client Portal).
+- [x] I researched at least two existing products (Apple Stocks, Interactive Brokers).
 - [x] I cited evidence for each selected product pattern.
 - [x] My research changed at least one scope decision (added followed instruments) and confirmed others.
 - [x] I mapped stakeholder motivation and influence.
