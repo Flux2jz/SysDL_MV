@@ -18,3 +18,4 @@
 | --- | ----- |
 | [Lab 1](Lab_1/README.md) | Product Framing: (Personal Investment Dashboard) |
 | [Lab 2](Lab_2/README.md) | Quantify the Dashboard Reads |
+| [Lab 3](Lab_3/README.md) | Draw the Dashboard Boundary |
